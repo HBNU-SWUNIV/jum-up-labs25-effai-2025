@@ -1,5 +1,5 @@
 # Jump-up-Labs-TEMPLATE
-# 국립한밭대학교 XXX학과 XXX팀
+# 국립한밭대학교 인공지능 소프트웨어학과 이파이팀
 
 **팀 구성**
 - 2019XXXX Name
