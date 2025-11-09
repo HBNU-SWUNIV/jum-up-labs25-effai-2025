@@ -36,7 +36,7 @@
 - 경진대회 Open에서 3등 Blind 11등
 
 ## Conclusion
-- ABCD
+- 
 
 ## Project Outcome
-- ABCD
+- 
