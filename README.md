@@ -80,7 +80,7 @@
   - **QAT (Quantization-Aware Training)** 적용을 통한 추가 성능 개선  
   - **INT8 양자화 및 NPU 배포 실험**으로 확장 예정  
 
--
+
 ## Numerical Results
 - 경진대회 Open에서 3등 Blind 11등
 
